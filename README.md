@@ -31,6 +31,8 @@ Volatility3의 'windows.info' 플러그인을 사용하여
 분석결과, 대상 시스템은 
 **Windows 7 SP1 x64 환경**임을 확인할 수 있었다.
 
+![windows.info 결과](screenshots/windows_info.png)
+
 ---
 
 ## 4. 프로세스 분석 시도(windows.pslist)
@@ -38,6 +40,8 @@ Volatility3의 'windows.info' 플러그인을 사용하여
 'windows.pslist' 플러그인을 사용하여 
 메모리 상 실행 중인 프로세스 목록을 확인하고자 하였으나, 
 출력 결과가 제한됨을 확인하였다.
+
+![pslist 경고 메세지](screenshots/pslist.png)
 
 ## 원인 분석
 
