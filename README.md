@@ -17,7 +17,7 @@ Windows 메모리 덤프 파일을 분석하고,
 ## 2. 분석 환경
 
 - Host OS: Windows
-- Python: 3.10
+- Python: 3.10.11
 - Volatility Framework: 2.27.1
 - Memory Dump Type: VMware VMEM
 
